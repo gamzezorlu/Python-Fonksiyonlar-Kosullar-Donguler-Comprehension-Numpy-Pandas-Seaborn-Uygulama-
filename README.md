@@ -1,0 +1,1 @@
+# Python-Fonksiyonlar-Kosullar-Donguler-Comprehension-Numpy-Pandas-Seaborn-Uygulama-
